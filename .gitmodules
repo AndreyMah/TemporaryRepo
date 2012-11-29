@@ -1,0 +1,6 @@
+[submodule "Learning_git"]
+	path = Learning_git
+	url = git://github.com/AndreyMah/Learning_git.git
+[submodule "FromPCtoGithub"]
+	path = FromPCtoGithub
+	url = git://github.com/AndreyMah/FromPCtoGithub.git
